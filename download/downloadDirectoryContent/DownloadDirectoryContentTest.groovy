@@ -1,3 +1,6 @@
+// Written by Shikhar Rawat, shikharr@jfrog.com
+// Jfrog Inc.
+
 import spock.lang.Specification
 import java.security.MessageDigest
 import org.jfrog.artifactory.client.model.repository.settings.impl.MavenRepositorySettingsImpl
